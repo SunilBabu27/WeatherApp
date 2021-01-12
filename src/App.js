@@ -7,8 +7,8 @@
 */
 }
 const api={
-    key: "9ee31cc973mshb9eafd7043fb76fp1fa63bjsn491d732e5f8d",
-    base:"https://visual-crossing-weather.p.rapidapi.com//"
+    key: "Paste Your API key here",
+    base:"Paste your API url here "
 }
 
 function App() {
