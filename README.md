@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Import the Background Images
+
+Download the Background Images in .jpg format, store them in a folder named assets inside src folder. 
+
 ## Available Scripts
 
 In the project directory, you can run:
